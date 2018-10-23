@@ -1,0 +1,5 @@
+datanode1/
+datanode2/
+locator1/
+*.log
+*.pyc
