@@ -1,4 +1,4 @@
-# Setting Up a Local WAN Gateway
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br># Setting Up a Local WAN Gateway
 
 This project uses [gemfire-manager](https://github.com/Pivotal-Data-Engineering/gemfire-manager) to start a pair of 2 node clusters suitable for testing 
 WAN gateway. It requires that you have python 2 installed on your local 
